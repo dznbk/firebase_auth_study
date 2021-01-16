@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dznbk/firebase_auth_study#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "firebase": "^8.2.3"
   }
 }
