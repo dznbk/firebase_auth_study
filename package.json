@@ -1,0 +1,22 @@
+{
+  "name": "firebase_auth",
+  "version": "1.0.0",
+  "description": "firebase auth test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dznbk/firebase_auth_study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dznbk/firebase_auth_study/issues"
+  },
+  "homepage": "https://github.com/dznbk/firebase_auth_study#readme",
+  "dependencies": {
+    "firebase": "^8.2.3"
+  }
+}
